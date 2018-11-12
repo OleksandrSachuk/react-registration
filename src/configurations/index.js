@@ -1,0 +1,1 @@
+export const API = 'https://lab.lectrum.io/redux/api';
